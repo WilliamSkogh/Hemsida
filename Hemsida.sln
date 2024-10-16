@@ -6,8 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DD3ED6DE-EAF3-4101-8A4A-77DE4C9F1775}"
 	ProjectSection(SolutionItems) = preProject
 		aboutme.html = aboutme.html
+		cv.html = cv.html
 		hemsida.css = hemsida.css
 		hemsida.html = hemsida.html
+		Kontakt.html = Kontakt.html
 	EndProjectSection
 EndProject
 Global
