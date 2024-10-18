@@ -19,12 +19,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{95B94CC0-E632-4BFF-AC11-D2490437ACD2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "db", "db", "{2AF95580-7D75-4C35-9DF3-D64A3FD002A2}"
+	ProjectSection(SolutionItems) = preProject
+		978-91-1-308918-6.html = 978-91-1-308918-6.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{95B94CC0-E632-4BFF-AC11-D2490437ACD2} = {DD3ED6DE-EAF3-4101-8A4A-77DE4C9F1775}
+		{2AF95580-7D75-4C35-9DF3-D64A3FD002A2} = {95B94CC0-E632-4BFF-AC11-D2490437ACD2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AAB4AB87-4497-4CCF-8F4F-140658D9B1B7}
